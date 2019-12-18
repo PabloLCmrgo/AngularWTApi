@@ -92,3 +92,6 @@ export class AppComponent {
  * mostrar y tiempo en ocultar * Agregar un botón de cerrar * Mostrar barra de progreso del tiempo que falta para cerrar * Función en caso
  * de hacer clic a la notificación.
  */
+
+
+ // Esto es una prueba para el branch version 2
